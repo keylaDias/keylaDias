@@ -31,7 +31,7 @@
   <div>
    <br>
  
- 	<a href = "mailto:keyladias.dk@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+ 	<a href = "mailto:keyladias.dk@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
    </a>
   <a href="https://https://www.linkedin.com/in/keyla-neves-silva-dias-bb358a224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a>
