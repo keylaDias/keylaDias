@@ -1,9 +1,6 @@
 ### Olá! Eu sou a Keyla Dias, seja bem vinde ao meu perfil!
 
-
-
-- 🌱 Estudante na Generation Brasil
-- 😄 Pronomes: Ela
+- Desenvolvedora web java Junior - Generation Brasil
 
  ## Tecnologias que estou estudando
  
