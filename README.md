@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Keyla Dias, seja bem vinde ao meu perfil!
 
-- Desenvolvedora web java Junior - Generation Brasil
+- Desenvolvedora Full Stack Java Jr - Generation Brasil
 
  ## Tecnologias que estou estudando
  
